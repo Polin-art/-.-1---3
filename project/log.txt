@@ -1,0 +1,30 @@
+commit cdb6bcd6390621fbfe0fff47de200d0e862a0410
+Author: Polin-art <polinka.zubareva@gmail.com>
+Date:   Sat Nov 14 02:37:34 2026 +0300
+
+    Добавлена история команд
+
+commit f233f85399c97821983aa2ddfd66dda798fb7dc9
+Author: Polin-art <polinka.zubareva@gmail.com>
+Date:   Sat Nov 14 02:22:46 2026 +0300
+
+    Добавлен код
+
+commit 43eb8fbba88a8690497b386ebbe85e3e58b1438d
+Merge: 833c53c 0ad9a8c
+Author: Polin-art <polinka.zubareva@gmail.com>
+Date:   Sat Nov 14 01:05:47 2026 +0300
+
+    Merge branch "main" into my-branch
+
+commit 833c53c9741e568e949cc8c2ae99e508c1a3c991
+Author: Polin-art <polinka.zubareva@gmail.com>
+Date:   Fri Nov 13 23:37:04 2026 +0300
+
+    Добавлен README.md
+
+commit 0ad9a8c28481dd6e9885c844e0f52743b6221370
+Author: Polin-art <polinka.zubareva@gmail.com>
+Date:   Fri Nov 13 21:11:29 2026 +0300
+
+    Initial commit

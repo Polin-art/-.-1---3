@@ -1,0 +1,7 @@
+diff --git a/project/README.md b/project/README.md
+index 96a90a1..23c8517 100644
+--- a/project/README.md
++++ b/project/README.md
+@@ -1 +1,2 @@
+ -.-1---3
++1 stroka
